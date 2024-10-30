@@ -1,4 +1,4 @@
-# LiteSR
-LiteSR：A Lightweight Video Super-Resolution Model with Bidirectional Optical Flow
+# LightSR
+LightSR：A Lightweight Video Super-Resolution Model with Bidirectional Optical Flow
 
 Coming Soon.
